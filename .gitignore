@@ -16,6 +16,9 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+![Dd]ebug/libcurl.*
+![Rr]elease/libcurl.*
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
